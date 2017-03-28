@@ -1,0 +1,88 @@
+h1 {
+    color: green;
+}
+h4{
+  color: grey;
+}
+
+body {
+    background-image: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToj_zCWVHURRSZcDgjBsuN5Yc25GeH0p5s3Y3g4mGYvcbLDiK1');
+}
+
+
+
+#Weekdays {
+    text-align: center;
+
+}
+table{
+  background: silver;
+  border-top-left-radius:  40px;
+  border-bottom-right-radius: 40px;
+}
+
+td {
+    align: center;
+    font-family: sans-serif;
+    background-color: white;
+    font-size: 15px;
+    display: inline-table;
+    width: 10em;
+    padding: 10px 5px;
+    margin: 0px;
+    text-align: center;
+    border: solid 4px #777;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-sizing: content-box;
+}
+
+#selectDate1, #selectDate2 {
+    text-align: center;
+    cursor: pointer;
+    padding: 7px;
+    margin: 20px;
+    box-shadow: 0px 4px 7px;
+    border-top-right-radius:50px;
+    border-bottom-left-radius: 50px;
+    background: green;
+}
+
+#Date1 {
+    background: green;
+}
+
+#Date2 {
+    background: red;
+}
+
+#first, #second {
+    margin-bottom: -30px;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+
+/*table, td {
+  border-collapse: collapse;
+  border: 5px double lime;
+}
+body{
+  background: silver;
+  margin: auto;
+}
+table{
+  background-color: grey;
+  color: black;
+}
+th, td{
+  height: 40px;
+  width: 70px;
+  text-align: center;
+}
+#dateSelector1 {
+  background:silver;
+}
+#dateSelector2 {
+  background:silver;
+}*/
