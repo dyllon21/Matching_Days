@@ -1,24 +1,23 @@
 h1 {
     color: green;
 }
-h4{
-  color: grey;
+
+h4 {
+    color: grey;
 }
 
 body {
     background-image: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToj_zCWVHURRSZcDgjBsuN5Yc25GeH0p5s3Y3g4mGYvcbLDiK1');
 }
 
-
-
 #Weekdays {
     text-align: center;
-
 }
-table{
-  background: silver;
-  border-top-left-radius:  40px;
-  border-bottom-right-radius: 40px;
+
+table {
+    background: silver;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
 }
 
 td {
@@ -43,7 +42,7 @@ td {
     padding: 7px;
     margin: 20px;
     box-shadow: 0px 4px 7px;
-    border-top-right-radius:50px;
+    border-top-right-radius: 50px;
     border-bottom-left-radius: 50px;
     background: green;
 }
